@@ -1,0 +1,6 @@
+{
+    "app_name": "LabelTools_v1.3",
+    "author": "Han-Yang Kuo",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0"
+}
